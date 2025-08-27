@@ -91,6 +91,7 @@ CUST001,ITEM04,2025,12151.3014
 Install via:
 
 ```bash
+git clone https://github.com/gautam-chitti/forecasting-milk-sales.git
 
 ```
 
